@@ -3,6 +3,7 @@
   "type": "library",
   "description": "The IMDb API is a RESTful web service to obtain movie information",
   "keywords": [
+    "laravel",
     "imdb",
     "api"
     "restful"
