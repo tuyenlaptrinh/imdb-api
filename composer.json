@@ -1,0 +1,22 @@
+{
+  "name": "tuyenlaptrinh/imdb-api",
+  "type": "PHP class",
+  "description": "The IMDb API is a RESTful web service to obtain movie information",
+  "keywords": [
+    "imdb",
+    "api"
+    "restful"
+  ],
+  "homepage": "http://imdbapi.net",
+  "license": "MIT",
+  "authors": [
+  {
+    "name": "Tuyen Pham",
+    "email": "tuyenlaptrinh@gmail.com"
+  }
+  ],
+  "autoload": {
+    "psr-4":{"IMDbapi\\Api":"src/"}
+  },
+  "minimum-stability": "dev"
+}
